@@ -8,4 +8,6 @@ game Description:
 * Whumpus releases the Stench to its adjacent room
 * and nearby rooms of pit are noticed by Breeze
 * The main object is to get the GOLD and come out alive
-
+* You get a 1000 points if you get gold
+* you loose each point when you take a step
+* you loose 10 points eachtime you shoot an arrow
