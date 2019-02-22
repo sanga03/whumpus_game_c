@@ -1,6 +1,7 @@
- A Classic Whumpus World Game In  C
+## A Classic Whumpus World Game In  C
 
-game Description:
+### game Description:
+
 * There are 16 rooms (Grids)
 * and among them there is Whumpus(Animal),Pit and Gold
 * if you goto the Whumpus room then you are eaten by it
